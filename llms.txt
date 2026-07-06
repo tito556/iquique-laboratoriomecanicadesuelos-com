@@ -1,0 +1,51 @@
+# Laboratoriomecanicadesuelos — Iquique
+
+> Geotechnical engineering services in Iquique, Chile.
+
+## Services
+- [Aislacion Sismica](https://iquique.laboratoriomecanicadesuelos.com/aislacion-sismica/)
+- [Anclajes](https://iquique.laboratoriomecanicadesuelos.com/anclajes/)
+- [Calicatas](https://iquique.laboratoriomecanicadesuelos.com/calicatas/)
+- [Cbr Vial](https://iquique.laboratoriomecanicadesuelos.com/cbr-vial/)
+- [Cimentaciones](https://iquique.laboratoriomecanicadesuelos.com/cimentaciones/)
+- [Columnas Grava](https://iquique.laboratoriomecanicadesuelos.com/columnas-grava/)
+- [Densidad Cono Arena](https://iquique.laboratoriomecanicadesuelos.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://iquique.laboratoriomecanicadesuelos.com/ensayo-cpt/)
+- [Ensayos Proctor](https://iquique.laboratoriomecanicadesuelos.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://iquique.laboratoriomecanicadesuelos.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://iquique.laboratoriomecanicadesuelos.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://iquique.laboratoriomecanicadesuelos.com/excavaciones-subterraneo/)
+- [Exploracion](https://iquique.laboratoriomecanicadesuelos.com/exploracion/)
+- [Geotecnia Vial](https://iquique.laboratoriomecanicadesuelos.com/geotecnia-vial/)
+- [Granulometria](https://iquique.laboratoriomecanicadesuelos.com/granulometria/)
+- [Inyecciones](https://iquique.laboratoriomecanicadesuelos.com/inyecciones/)
+- [Laboratorio In Situ](https://iquique.laboratoriomecanicadesuelos.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://iquique.laboratoriomecanicadesuelos.com/laboratorio-lab/)
+- [Licuefaccion](https://iquique.laboratoriomecanicadesuelos.com/licuefaccion/)
+- [Limites Atterberg](https://iquique.laboratoriomecanicadesuelos.com/limites-atterberg/)
+- [Losas Fundacion](https://iquique.laboratoriomecanicadesuelos.com/losas-fundacion/)
+- [Masw](https://iquique.laboratoriomecanicadesuelos.com/masw/)
+- [Mejoramiento](https://iquique.laboratoriomecanicadesuelos.com/mejoramiento/)
+- [Microzonificacion Sismica](https://iquique.laboratoriomecanicadesuelos.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://iquique.laboratoriomecanicadesuelos.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://iquique.laboratoriomecanicadesuelos.com/muros-contencion/)
+- [Pavimento Flexible](https://iquique.laboratoriomecanicadesuelos.com/pavimento-flexible/)
+- [Pavimento Rigido](https://iquique.laboratoriomecanicadesuelos.com/pavimento-rigido/)
+- [Permeabilidad In Situ](https://iquique.laboratoriomecanicadesuelos.com/permeabilidad-in-situ/)
+- [Pilotes](https://iquique.laboratoriomecanicadesuelos.com/pilotes/)
+- [Refraccion Sismica](https://iquique.laboratoriomecanicadesuelos.com/refraccion-sismica/)
+- [Resistividad](https://iquique.laboratoriomecanicadesuelos.com/resistividad/)
+- [Sismica](https://iquique.laboratoriomecanicadesuelos.com/sismica/)
+- [Sondajes Spt](https://iquique.laboratoriomecanicadesuelos.com/sondajes-spt/)
+- [Taludes](https://iquique.laboratoriomecanicadesuelos.com/taludes/)
+- [Triaxial](https://iquique.laboratoriomecanicadesuelos.com/triaxial/)
+- [Tuneles Suelo Blando](https://iquique.laboratoriomecanicadesuelos.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://iquique.laboratoriomecanicadesuelos.com/vibrocompactacion/)
+- [Zapatas](https://iquique.laboratoriomecanicadesuelos.com/zapatas/)
+
+## Contact
+- Website: https://iquique.laboratoriomecanicadesuelos.com/
+
+## About
+This site provides geotechnical engineering services in Iquique, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
